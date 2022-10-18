@@ -1,0 +1,13 @@
+target 'MyMovies' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for MyMovies
+  	pod 'SnapKit', '~> 5.6.0'
+    pod 'Cosmos', '~> 23.0.0'
+    pod 'TagListView', '~> 1.4.1'
+    pod 'RxSwift'
+    pod 'RxCocoa'
+    pod 'Nuke'
+
+end
